@@ -9,6 +9,7 @@ Businesses often collect large amounts of customer data but fail to utilize it e
 
 
 This project focuses on:
+
 •	Identifying distinct customer segments based on income and spending patterns.
 
 •	Predicting whether a customer is a Low, Medium, or High spender.
